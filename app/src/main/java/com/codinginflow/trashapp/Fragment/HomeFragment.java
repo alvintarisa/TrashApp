@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import com.codinginflow.trashapp.Adapter.KategoriAdapter;
-import com.codinginflow.trashapp.MapsActivity;
+import com.codinginflow.trashapp.Activity.MapsActivity;
 import com.codinginflow.trashapp.R;
 import com.codinginflow.trashapp.model.Kategori;
 
